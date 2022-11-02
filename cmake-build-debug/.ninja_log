@@ -1,0 +1,5 @@
+# ninja log v5
+0	92	1667407009582303646	CMakeFiles/code_with_mosh_cpp.dir/helloWorld.cpp.o	871ffe8d558feacf
+60	110	1667406853848354909	code_with_mosh_cpp	fa95a0f9a7e159ff
+2	371	1667407009859906410	CMakeFiles/code_with_mosh_cpp.dir/dataType.cpp.o	88d0956b59893f94
+2	52	1667407034104910032	code_with_mosh_cpp	4f350cb380153764
