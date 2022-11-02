@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Learn Datatype";
+    cout << "Learn Datatype Primitive and User Defined";
     return 0;
 }
