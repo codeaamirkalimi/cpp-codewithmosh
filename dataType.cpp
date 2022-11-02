@@ -1,4 +1,5 @@
 #include "iostream"
+#include "cstdlib"
 using namespace std;
 
 int main() {
@@ -14,6 +15,8 @@ int main() {
     int bNumber = 0x10101;
     cout << bNumber;
     // narrowing
-
+    srand(time(0));
+    int randomNumber = rand() % 10;
+    cout << randomNumber;
     return 0;
 }
